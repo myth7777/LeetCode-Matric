@@ -53,7 +53,7 @@ To get started with the project:
 
 Here's an example of the API response that the project expects:
 
-\`\`\`json
+```
 {
    "status": "success",
    "message": "retrieved",
@@ -70,7 +70,7 @@ Here's an example of the API response that the project expects:
    "contributionPoints": 715,
    "reputation": 0
 }
-\`\`\`
+```
 
 ## Technologies Used
 
