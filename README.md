@@ -27,7 +27,7 @@ To get started with the project:
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/LeetCode-Stats-Dashboard.git
+   git clone https://github.com/myth7777/LeetCode-Matric.git
    \`\`\`
    
 2. Open \`index.html\` in your browser to see the project in action.
@@ -89,12 +89,3 @@ If you want to contribute to this project, feel free to fork the repository, mak
 3. Commit your changes (\`git commit -am 'Add new feature'\`).
 4. Push to the branch (\`git push origin feature-branch\`).
 5. Submit a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Special thanks to the contributors and open-source community for providing useful libraries and tools that helped in building this project.
-" > README.md
