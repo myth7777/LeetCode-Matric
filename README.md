@@ -11,14 +11,14 @@ This project is a LeetCode Stats Dashboard that fetches and displays your LeetCo
 - Lightweight and responsive UI.
 
 ## Project Structure
-
+```
 /LeetCode-Stats-Dashboard
 ├── index.html        # The main HTML file that contains the structure of the page
 ├── style.css         # CSS file for styling the dashboard and progress bars
 ├── main.js           # JavaScript file to fetch and display the LeetCode stats
 ├── assets/           # Folder for any images or assets (if needed)
 └── README.md         # This README file
-
+```
 ## Installation
 
 To get started with the project:
