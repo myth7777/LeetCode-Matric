@@ -89,3 +89,7 @@ If you want to contribute to this project, feel free to fork the repository, mak
 3. Commit your changes (\`git commit -am 'Add new feature'\`).
 4. Push to the branch (\`git push origin feature-branch\`).
 5. Submit a pull request.
+
+## Interface
+![Screenshot_20241211_032814](https://github.com/user-attachments/assets/c316e49a-e95d-403a-b2d7-34769fd99818)
+
